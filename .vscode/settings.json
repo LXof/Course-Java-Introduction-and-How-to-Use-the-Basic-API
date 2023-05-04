@@ -1,0 +1,8 @@
+{
+    //"java.debug.settings.onBuildFailureProceed": true
+    "java.project.referencedLibraries": [
+        {
+            "path": "lib/json-simple-1.1.1.jar"
+        }
+    ]
+}
